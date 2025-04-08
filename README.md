@@ -1,8 +1,8 @@
 # **Spotfire**  
 *Your Personal Music Streaming Platform*
 
-![Spotfire Screenshot](Frame10.png)
 ![Spotfire Screenshot](Frame8.png)
+![Spotfire Screenshot](Frame101.png)
 
 ---
 
